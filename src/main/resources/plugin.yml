@@ -1,0 +1,13 @@
+name: RCRegions
+main: com.silthus.rcregions.RCRegions
+version: 0.1
+database: true
+authors:
+  - Silthus
+website: www.raid-craft.de
+description: >
+             Manages Regions from WorldGuard and saves them in a database
+commands:
+    rci:
+        aliases: [instance]
+        description: The RaidCraft Region Management Plugin.
